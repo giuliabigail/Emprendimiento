@@ -1,0 +1,68 @@
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-top: 2px;
+    padding-bottom: 0px;
+}
+
+.header .logo .titulo {
+    font-family: 'Lobster Two', cursive;
+    font-size: 42px;
+    color: white;
+
+}
+
+.logo{
+    display: flex;
+    width: 80px;
+    padding-left: 15px;
+}
+
+.header .logo .descripcion {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color: white;
+}
+
+
+.header .nav .ul {
+    display: flex;
+
+}
+
+.header .nav .ul li {
+    margin: 20px;
+    list-style: none;
+}
+
+
+.header .nav .ul li a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    padding: 11px;
+    border-radius: 10px;
+}
+
+
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: white;
+    
+}
+
+
+.container-footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+
+}
+
+.container-footer a{
+    color: black;
+}
