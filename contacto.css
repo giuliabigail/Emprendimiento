@@ -6,12 +6,10 @@ body {
 
 
 
-
-
 h1{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #6F7073;
+    background-color: #1e43b3;
     color: white;
     font-size: 20px;
     padding: 10px;
@@ -37,21 +35,3 @@ h1{
     margin-bottom: 30px;
 }
 
-h4 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
-    color: white;
-    
-}
-
-
-.container-footer{
-    display: flex;
-    justify-content: space-between;
-    padding: 12px;
-
-}
-
-.container-footer a{
-    color: black;
-}
